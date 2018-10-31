@@ -49,7 +49,6 @@ body {
 }
 .input:focus{
     border: 2px solid #34b3a0;
-
 }
 
 .btn{
@@ -64,6 +63,9 @@ body {
     letter-spacing: 1px;
     cursor: pointer;
     margin-top: 15px;
+}
+.btn:hover{
+    background: #229786;  
 }
 button{
     border: 0;
